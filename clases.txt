@@ -1,0 +1,10 @@
+sexo: hombre = 1;mujer=0
+primera_vez: Si, es la primera vez = 1; no = 0
+estudio_fuera_de_la_escuela: Menos de 1 hora.= 1; Entre 1 y 2 horas. = 2;Entre 2 y 3 horas.=3
+tiempo_semana: Estudio principalmente en las noches. = 1; Estudio principalmente en las tardes. = 2; Estudio principalmente en las maÃ±anas.= 3;Distribuyo mi tiempo de estudio de manera equilibrada durante el dÃ­a. = 4
+ver_peliculas_series: Menos de 1 hora al dia = 1; De 1 a 2 horas al dÃ­a = 2;MÃ¡s de 2 horas al dÃ­a=3
+leer_libros_revistas: Menos de 1 hora al dia = 1; De 1 a 2 horas al dÃ­a = 2;MÃ¡s de 2 horas al dÃ­a=3
+practicar_deporte: Menos de 1 hora al dia = 1; De 1 a 2 horas al dÃ­a = 2;MÃ¡s de 2 horas al dÃ­a=3
+pasar_tiempo_amigos_familiares: Menos de 1 hora al dia = 1; De 1 a 2 horas al dÃ­a = 2;MÃ¡s de 2 horas al dÃ­a=3
+otro: Menos de 1 hora al dia = 1; De 1 a 2 horas al dÃ­a = 2;MÃ¡s de 2 horas al dÃ­a=3
+aprendizaje: Visual= 1; Auditivo=2;KinestÃ©sico=3;Musical=4;otro=5
